@@ -5,4 +5,4 @@ After download all needed stuffs, you should copy the file and put on your Pytho
 Remember to change the location where you store the 'chormedriver.exe' file and searching keyword.  
 That's all, you are good to go now, execute the code and type your user ID and Password.   
 Have fun time connecting with others :).  
-Oh, forgot to mention, we are limited by 100 sent connections per week.
+Oh, forgot to mention, we are limited by 200 sent connections per week.
